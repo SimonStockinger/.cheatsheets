@@ -25,6 +25,7 @@
 
 ### Installation
 **Cloning**
+
 By default the script expects the `.cheatsheets` directory to be located at `$HOME/.cheatsheets`
 
 ```bash
