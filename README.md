@@ -37,7 +37,7 @@ chmod +x cheatsheets install.sh uninstall.sh ./cheatsheets
 **Installation** via `./install.sh`
 **Uninstall** via `.uninstall`
 
-**Opening cheatsheets**
+## Opening cheatsheets
 
 `cheatsheets` -> allows to choos from the cheatsheets in the defined path.
 
