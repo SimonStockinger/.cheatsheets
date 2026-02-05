@@ -5,10 +5,14 @@
 
 ## Repository Structure
 .cheatsheets
+
   /sheets -> Directory for .md cheatsheet files
-  cheatsheets
-  install.sh
-  uninstall.sh
+  
+  cheatsheets -> Cheatsheets script
+  
+  install.sh -> Install shell script
+  
+  uninstall.sh -> Uninstall shell script
  
 ## Usage
 ### Prerequisites
