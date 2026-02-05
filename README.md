@@ -1,6 +1,5 @@
 # .cheatsheets
-
-
+Repository includes a script to access markdown cheatsheets via terminal command and said collection of cheatsheets.
 
 
 ## Repository Structure
