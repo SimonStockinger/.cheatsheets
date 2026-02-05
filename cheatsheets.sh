@@ -17,7 +17,7 @@ else
     fi
 fi
 
-# Open with bat or less
+# Open with bat
 bat "$FILE" --paging=always --style=numbers,changes --theme=TwoDark
 
 export PATH="$HOME/.cheatsheets:$PATH"
