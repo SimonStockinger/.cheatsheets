@@ -18,9 +18,7 @@
 ### Prerequisites
 - `bash` (or compatible shell)
 - `fzf` for interactive selection
-- `bat` for Markdown rendering (optional; falls back to `less` if not installed)
-  - `sudo pacman -S fzf bat` (On Arch Linux)
- 
+- `bat` for Markdown rendering
 
 ### Installation
 **Cloning**
