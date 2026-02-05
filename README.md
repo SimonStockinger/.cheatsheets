@@ -20,6 +20,11 @@
 - `fzf` for interactive selection
 - `bat` for Markdown rendering
 
+IMPRTANT!
+
+Check if the configuration used in the scripts is compatible with your system.
+
+
 ### Installation
 **Cloning**
 By default the script expects the `.cheatsheets` directory to be located at `$HOME/.cheatsheets`
