@@ -30,12 +30,18 @@ git clone https://github.com/SimonStockinger/.cheatsheets.git
 cd cheatsheets
 ```
 
-Make the scripts runnable
+**Make the scripts runnable**
 ```bash
 chmod +x cheatsheets install.sh uninstall.sh ./cheatsheets
 ```
-Installation via `./install.sh`
-Uninstall via `.uninstall`
+**Installation** via `./install.sh`
+**Uninstall** via `.uninstall`
+
+**Opening cheatsheets**
+
+`cheatsheets` -> allows to choos from the cheatsheets in the defined path.
+
+`cheatsheets cheatsheet.md` opend `cheatsheet.md` if it exists in the defined path.
 
 ### Customization
 bat can be replaced by any markdown viewer of choice (f.e. mdcat, glow).
