@@ -41,4 +41,5 @@ Uninstall via `.uninstall`
 
 ### Customization
 bat can be replaced by any markdown viewer of choice (f.e. mdcat, glow).
+
 Adjust this line: `bat "$FILE" --paging=always --style=numbers,changes --theme=TwoDark` in the cheatsheets script
