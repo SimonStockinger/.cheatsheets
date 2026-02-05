@@ -35,7 +35,7 @@ cd cheatsheets
 chmod +x cheatsheets install.sh uninstall.sh ./cheatsheets
 ```
 **Installation** via `./install.sh`
-**Uninstall** via `.uninstall`
+**Uninstall** via `./uninstall`
 
 ### Opening cheatsheets
 
