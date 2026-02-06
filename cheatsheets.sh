@@ -18,7 +18,7 @@ else
 fi
 
 # Open with bat
-bat "$FILE" --paging=always --style=numbers,changes --theme=TwoDark
+# bat "$FILE" --paging=always --style=numbers,changes --theme=TwoDark
+treemd "$FILE"
 
-export PATH="$HOME/.cheatsheets:$PATH"
 
