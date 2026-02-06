@@ -4,14 +4,10 @@ Repository includes a script to access markdown cheatsheets via terminal command
 
 ## Repository Structure
 .cheatsheets
-
-/sheets/ -> Directory for .md cheatsheet files
-
-/cheatsheets.sh -> Cheatsheets script
-  
-/install.sh -> Install shell script
-  
-/uninstall.sh -> Uninstall shell script
+- /sheets/ -> Directory for .md cheatsheet files
+- /cheatsheets.sh -> Cheatsheets script
+- /install.sh -> Install shell script
+- /uninstall.sh -> Uninstall shell script
  
 ## Usage
 **IMPORTANT:** Check if the configuration used in the scripts is compatible with your system.
