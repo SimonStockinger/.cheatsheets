@@ -8,17 +8,15 @@ Repository includes a script to access markdown cheatsheets via terminal command
 - /cheatsheets.sh -> Cheatsheets script
 - /install.sh -> Install shell script
 - /uninstall.sh -> Uninstall shell script
- 
-## Usage
+
+## Installation
 **IMPORTANT:** Check if the configuration used in the scripts is compatible with your system.
-
-
 ### Prerequisites
 - `bash` (or compatible shell)
 - `fzf` for interactive selection
 - `bat` for Markdown rendering
 
-### Installation
+### Linux
 **Cloning**
 
 By default the script expects the `.cheatsheets` directory to be located at `$HOME/.cheatsheets`
@@ -35,7 +33,8 @@ chmod +x cheatsheets install.sh uninstall.sh ./cheatsheets
 ```
 **Installation** via `./install.sh`
 **Uninstall** via `./uninstall`
-
+ 
+## Usage
 ### Opening cheatsheets
 
 `cheatsheets` -> allows to choos from the cheatsheets in the defined path.
