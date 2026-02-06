@@ -11,6 +11,10 @@ Repository includes a script to access markdown cheatsheets via terminal command
 
 ## Installation
 **IMPORTANT:** Check if the configuration used in the scripts is compatible with your system.
+
+By default the script expects the `.cheatsheets` directory to be located at `$HOME/.cheatsheets`
+
+
 ### Prerequisites
 - `bash` (or compatible shell)
 - `fzf` for interactive selection
@@ -18,9 +22,6 @@ Repository includes a script to access markdown cheatsheets via terminal command
 
 ### Linux
 **Cloning**
-
-By default the script expects the `.cheatsheets` directory to be located at `$HOME/.cheatsheets`
-
 ```bash
 cd ~
 git clone https://github.com/SimonStockinger/.cheatsheets.git
