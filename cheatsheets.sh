@@ -19,6 +19,8 @@ fi
 
 # Open with bat
 # bat "$FILE" --paging=always --style=numbers,changes --theme=TwoDark
+
+# Open with treemd
 treemd "$FILE"
 
 
