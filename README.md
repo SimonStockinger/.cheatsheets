@@ -13,7 +13,7 @@ Repository includes a script to access markdown cheatsheets via terminal command
 ## Installation
 **IMPORTANT:** Check if the configuration used in the scripts is compatible with your system.
 
-By default the script expects the `.cheatsheets/` directory to be located at `$HOME/.cheatsheets/`
+By default the script expects the `.cheatsheets/` directory to be located at `$HOME/Documents/.cheatsheets/`
 
 
 ### Prerequisites

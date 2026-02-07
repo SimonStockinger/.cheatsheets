@@ -1,6 +1,6 @@
 #!/usr/bin/env bash 
 
-CHEATDIR="$HOME/.cheatsheets/sheets/"
+CHEATDIR="$HOME/Documents/.cheatsheets/sheets/"
 
 # No argument -> interactive mode
 if [ $# -eq 0 ]; then
