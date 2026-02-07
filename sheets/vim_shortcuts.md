@@ -154,10 +154,3 @@
 - lazy.nvim: `:Lazy`
 - packer.nvim: `:PackerSync`
 
----
-
-## Tipps
-- Lerne **Text Objects + Operatoren** → größte Produktivitätssteigerung
-- Nutze `.` und Macros für Wiederholungen
-- Konfiguriere Leader-Key bewusst (`let mapleader = " "`)
-
