@@ -33,6 +33,8 @@ git switch <branch>
 git switch -c <new-branch>
 ```
 
+---
+
 ## Commits & Verlauf
 ### Commit-Historie
 ```bash
@@ -44,6 +46,8 @@ git log --oneline --graph --decorate --all # gekürzt
 ```bash
 git show <commit>
 ```
+
+---
 
 ## Reset / Revert / Recover
 
@@ -105,6 +109,8 @@ git switch --detach <commit>
 ```bash
 git switch -c rescue-branch
 ```
+
+---
 
 ## switch vs checkout
 Aufgabe | switch	checkout
