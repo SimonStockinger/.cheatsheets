@@ -24,7 +24,7 @@ By default the script expects the `.cheatsheets/` directory to be located at `$H
 ### Linux
 **Cloning**
 ```bash
-cd ~
+cd ~/Documents/
 git clone https://github.com/SimonStockinger/.cheatsheets.git
 cd cheatsheets
 ```
